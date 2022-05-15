@@ -1,0 +1,32 @@
+{
+    "1": {
+      "name": "Iphone X",
+      "cost": 12000,
+      "img": "Iphone.png"
+   },
+   "2": {
+      "name": "Lenovo nout",
+      "cost": 250000,
+      "img": "Nout.png"
+   },
+   "3": {
+      "name": "Monitor samsung",
+      "cost": 5750,
+      "img": "Monitor.jpg"
+   },
+   "4": {
+      "name": "Televizor samsung",
+      "cost": 9999,
+      "img": "Samsung.png"
+   },
+   "5": {
+      "name": "ps 4 pro",
+      "cost": 15000,
+      "img": "ps4.png"
+   },
+   "6": {
+      "name": "ps 5 pro",
+      "cost": 35000,
+      "img": "ps5.png"
+   }
+}
